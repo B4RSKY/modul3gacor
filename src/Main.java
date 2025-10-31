@@ -16,6 +16,7 @@ public class Main {
         String operator = scanner.nextLine();
 
         System.out.println("----------------------------------------");
+        System.out.println("Perubahan aja asdhasdhj");
         kalkulator.hitung(angkaPertama, angkaKedua, operator);
 
         scanner.close();
